@@ -1,5 +1,5 @@
-# dehpc-www
-Web Site for DEHPC (www.dehpc.org)
+# www.dehpc.org
+Source for the DEHPC '15 Workshop Web Site
 
 Based on the [Agency](http://startbootstrap.com/template-overviews/agency/) portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
